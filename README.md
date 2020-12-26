@@ -7,3 +7,7 @@
 
 
 [RNASeq pipeline](https://nf-co.re/rnaseq)  [github](https://github.com/nf-core/rnaseq)
+
+
+
+[scilifenab course](https://scilifelab.github.io/courses/)
